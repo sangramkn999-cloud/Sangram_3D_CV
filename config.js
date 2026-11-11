@@ -17,7 +17,7 @@ window.CONFIG = {
   coreSkills: ["CVAT", "Supervisely Annotation", "LiDAR Data Processing", "Point Cloud Classification", "DTM / DSM Production", "TerraScan & TerraModeler", "MicroStation", "ArcGIS / QGIS", "Powerline Mapping", "Cadastral Mapping", "QA / QC"],
   software: ["TerraScan", "TerraModeler", "TerraMatch", "MicroStation", "ArcGIS", "QGIS", "Global Mapper", "AutoCAD", "Agisoft Metashape", "CloudCompare", "Adobe Photoshop", "Illustrator", "Python", "HTML", "CSS", "JavaScript"],
   experience: [
-    ["Senior Engineer (Freelance)", "GeoProcess Consulting · Aug 2026 – Present"],
+    ["Project Manager", "GeoProcess Consulting · Aug 2026 – Present"],
     ["GIS Consultant", "Geokno India (GMR Group) · Nov 2025 – Aug 2026"],
     ["GIS Engineer", "ATOMGEO · Sep 2025 – Nov 2025"],
     ["GIS Engineer / Senior Technician", "Nakshatech · Aug 2023 – Sep 2025"],
